@@ -45,7 +45,7 @@ It is  Coding Ninjas Skill Test Project for Front-End. Please visit the Coding N
 
 ## Author
 
-- Github - [Kanhaiya Kudale]()
+- Github - [Kanhaiya Kudale](https://github.com/kanhaiya9977/Super_Hero_Hunter_app)
 
 
 ## Acknowledgments
